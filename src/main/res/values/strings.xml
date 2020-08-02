@@ -1,26 +1,3 @@
 <resources>
-    <string name="app_name">final_app</string>
-    <string name="country_prompt">Choose a country</string>
-    <string-array name="country_arrays">
-        <item>Malaysia</item>
-        <item>United States</item>
-        <item>Indonesia</item>
-        <item>France</item>
-        <item>Italy</item>
-        <item>Singapore</item>
-        <item>New Zealand</item>
-        <item>India</item>
-    </string-array>
-
-    <string name="users_prompt">Choose a country</string>
-    <string name="gender">Gender:</string>
-    <string name="male">Male</string>
-    <string name="female">Female</string>
-    <string name="register">Register</string>
-    <string name="hello_blank_fragment">"hello blank "</string>
-    <string-array name="users_arrays">
-        <item>Admin</item>
-        <item>Maintainance Superviser</item>
-    </string-array>
-
+    <string name="app_name">RvItemAnimaion</string>
 </resources>
