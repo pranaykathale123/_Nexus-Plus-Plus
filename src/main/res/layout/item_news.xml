@@ -31,7 +31,7 @@
             android:layout_marginStart="40dp"
             android:layout_marginLeft="40dp"
             android:layout_marginTop="20dp"
-            android:text="Machine Name "
+            android:text="User1 "
             android:textColor="@color/title_text_color"
             android:textStyle="bold" />
 
@@ -45,7 +45,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginRight="16dp"
             android:lineSpacingExtra="8dp"
-            android:text="Machine ID "
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
             android:textColor="@color/content_text_color" />
 
         <TextView

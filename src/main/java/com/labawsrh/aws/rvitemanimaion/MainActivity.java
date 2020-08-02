@@ -78,24 +78,24 @@ public class MainActivity extends AppCompatActivity {
         // fill list news with data
         // just for testing purpose i will fill the news list with random data
         // you may get your data from an api / firebase or sqlite database ...
-        mData.add(new NewsItem("Mechanic 1","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 2","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 3 ","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 4","Mechanic ID:,","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 5","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 6","Mechanic ID: ","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 7:","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 8","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 9 ","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 10","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 11","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 12","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 13","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 14","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 15 ","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 16","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 17","Mechanic ID:","6 july 2020",R.drawable.mechanic_1));
-        mData.add(new NewsItem("Mechanic 18","Mechanic ID: ","6 july 2020",R.drawable.mechanic_1));
+        mData.add(new NewsItem("complaint 1","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 2","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 3","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 4","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 5","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 6","Complaint ID ","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 7","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 8","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 9","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 10","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 11","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 12","Complaint ID ","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 13","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 14","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 15","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 16","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 17","Complaint ID","6 july 1994",R.drawable.images));
+        mData.add(new NewsItem("complaint 18","Complaint ID","6 july 1994",R.drawable.images));
 
 
         // adapter ini and setup
